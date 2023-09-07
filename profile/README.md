@@ -1,4 +1,4 @@
-<h1 align="center">MinecraftTG24</h1>
+<h1 align="center"><b>MinecraftTG24</b></h1>
 <p align="center">
 	<img src="https://github.com/minecrafttg24/.github/assets/60828349/000e65ef-d716-4878-beec-c830b22b2af4"
 	width="300"
@@ -7,4 +7,4 @@
 
 </p>
 
-<p>Benvenuto allo spazio dedicato agli eventi per il Server Minecraft <a href="mtg24.live">eventi.mtg24.it</a></p>
+<p align="center">Benvenuto allo spazio dedicato agli eventi per il Server Minecraft <a href="mtg24.live">eventi.mtg24.it</a>.</p>
